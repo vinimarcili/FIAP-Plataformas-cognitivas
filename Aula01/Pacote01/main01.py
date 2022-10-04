@@ -11,4 +11,4 @@ if __name__ == "__main__":
     print("\n")
     print("Modulos disponíveis:")
     help("modules")
-    print("Entrega de trabalho: Meu nome é [Elthon Manhas de Freitas]")
+    print("Entrega de trabalho: Meu nome é [Vinícius Rodrigues Marcili]")
